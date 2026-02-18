@@ -574,7 +574,7 @@ CHA2DS2_VASC_RISK_TABLE = pd.DataFrame(
 # =========================================================
 # 앱 시작 UI
 # =========================================================
-st.title("🧠 뇌졸중 진료 보조 애플리케이션 (Stroke Helper) by DY Kim")
+st.title("🧠 Stroke Helper by DY Kim")
 
 with st.expander("면책 안내", expanded=True):
     st.write(
